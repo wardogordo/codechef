@@ -1,0 +1,4 @@
+C:\Users\wardh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5591.52\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/wardh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/ninja/win/ninja.exe -G Ninja -S D:\GitHub\CodeChef\first-problem -B D:\GitHub\CodeChef\first-problem\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/GitHub/codechef/first-problem/cmake-build-debug
