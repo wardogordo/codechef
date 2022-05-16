@@ -1,0 +1,3 @@
+D:/GitHub/codechef/second-max-on-dell-computer/cmake-build-debug/CMakeFiles/second_max_on_dell_computer.dir
+D:/GitHub/codechef/second-max-on-dell-computer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/codechef/second-max-on-dell-computer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

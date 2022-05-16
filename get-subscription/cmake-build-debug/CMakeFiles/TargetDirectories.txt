@@ -1,0 +1,3 @@
+D:/GitHub/codechef/get-subscription/cmake-build-debug/CMakeFiles/get_subscription.dir
+D:/GitHub/codechef/get-subscription/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/codechef/get-subscription/cmake-build-debug/CMakeFiles/rebuild_cache.dir
