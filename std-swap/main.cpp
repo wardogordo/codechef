@@ -2,14 +2,12 @@
 
 // https://www.geeksforgeeks.org/bubble-sort/
 
-int l[5]{25, 22,21, 16, 7};
+int l[9]{21, 22,25, 11, 14, 17, 7,4, 1};
 int r = sizeof (l) / sizeof (l[0]);
 int s = (sizeof(l) / sizeof(l[0]) - 1);
 
-// TODO => input parameters for OrderList and SortMyList
-void OrderList()
+void OrderList(int n)
 {
-    int n{};
     n = sizeof(l) / sizeof(l[0]);
     for (int i = 0; i < n; ++i)
     {
@@ -29,7 +27,7 @@ void SortMyList()
             if (l[i] > l[i + 1])
             {
                 std::swap(l[i], l[i + 1]);
-                OrderList();;
+                OrderList(r);;
             }
             else
                 std::cout << "\tNo change." << '\n';
