@@ -1,0 +1,3 @@
+D:/GitHub/codechef/hs08test/cmake-build-debug/CMakeFiles/hs08test.dir
+D:/GitHub/codechef/hs08test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/codechef/hs08test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

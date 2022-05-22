@@ -1,0 +1,3 @@
+D:/GitHub/codechef/manipulate/cmake-build-debug/CMakeFiles/manipulate.dir
+D:/GitHub/codechef/manipulate/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/codechef/manipulate/cmake-build-debug/CMakeFiles/rebuild_cache.dir

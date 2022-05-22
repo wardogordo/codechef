@@ -1,0 +1,3 @@
+D:/GitHub/codechef/chef-and-chapters/cmake-build-debug/CMakeFiles/chef_and_chapters.dir
+D:/GitHub/codechef/chef-and-chapters/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/codechef/chef-and-chapters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

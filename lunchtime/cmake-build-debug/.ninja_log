@@ -1,0 +1,11 @@
+# ninja log v5
+0	588	6745106449430437	CMakeFiles/lunchtime.dir/main.cpp.obj	5f7fb10c928a97b8
+589	1009	6745106451664354	lunchtime.exe	cb1961a8da4b4685
+0	558	6745111275720165	CMakeFiles/lunchtime.dir/main.cpp.obj	5f7fb10c928a97b8
+558	861	6745111277919379	lunchtime.exe	cb1961a8da4b4685
+1	601	6745111648801492	CMakeFiles/lunchtime.dir/main.cpp.obj	5f7fb10c928a97b8
+602	876	6745111650816124	lunchtime.exe	cb1961a8da4b4685
+1	582	6745115282128476	CMakeFiles/lunchtime.dir/main.cpp.obj	5f7fb10c928a97b8
+583	883	6745115284402653	lunchtime.exe	cb1961a8da4b4685
+1	565	6745115991350162	CMakeFiles/lunchtime.dir/main.cpp.obj	5f7fb10c928a97b8
+566	874	6745115993843810	lunchtime.exe	cb1961a8da4b4685
