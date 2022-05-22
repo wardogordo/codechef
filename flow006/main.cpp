@@ -1,5 +1,19 @@
 #include <iostream>
 #include <vector>
+#include <cmath>
+
+int CountDigits(int num)
+{
+    int counter{0};
+
+    while (num != 0)
+    {
+        num = num / 10;
+        counter ++;
+    }
+
+    return counter;
+}
 
 int main()
 {
@@ -12,7 +26,7 @@ int main()
         std::cin >> myInt;
         int total{};
         std::vector<int> number;
-        for (int i = 0; i < (log10(myInt) + 1); ++i)
+        for (int i = 0; i < CountDigits(myInt); ++i)
         {
             int tem;
             tem = (int)pow(10, i);
