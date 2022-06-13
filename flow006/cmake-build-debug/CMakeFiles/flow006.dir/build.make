@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5591.52\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5591.52\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -72,15 +72,15 @@ CMakeFiles/flow006.dir/main.cpp.obj: CMakeFiles/flow006.dir/flags.make
 CMakeFiles/flow006.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/flow006.dir/main.cpp.obj: CMakeFiles/flow006.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Owner\CLionProjects\codechef\flow006\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/flow006.dir/main.cpp.obj"
-	C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5591.52\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flow006.dir/main.cpp.obj -MF CMakeFiles\flow006.dir\main.cpp.obj.d -o CMakeFiles\flow006.dir\main.cpp.obj -c C:\Users\Owner\CLionProjects\codechef\flow006\main.cpp
+	C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flow006.dir/main.cpp.obj -MF CMakeFiles\flow006.dir\main.cpp.obj.d -o CMakeFiles\flow006.dir\main.cpp.obj -c C:\Users\Owner\CLionProjects\codechef\flow006\main.cpp
 
 CMakeFiles/flow006.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/flow006.dir/main.cpp.i"
-	C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5591.52\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Owner\CLionProjects\codechef\flow006\main.cpp > CMakeFiles\flow006.dir\main.cpp.i
+	C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Owner\CLionProjects\codechef\flow006\main.cpp > CMakeFiles\flow006.dir\main.cpp.i
 
 CMakeFiles/flow006.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/flow006.dir/main.cpp.s"
-	C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5591.52\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Owner\CLionProjects\codechef\flow006\main.cpp -o CMakeFiles\flow006.dir\main.cpp.s
+	C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Owner\CLionProjects\codechef\flow006\main.cpp -o CMakeFiles\flow006.dir\main.cpp.s
 
 # Object files for target flow006
 flow006_OBJECTS = \
