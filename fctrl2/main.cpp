@@ -1,5 +1,5 @@
 #include <iostream>
-//#include <vector>
+#include <vector>
 using namespace std;
 
 int main() {
@@ -8,10 +8,11 @@ int main() {
 	while(t--){
 	    int n;
 	    std::cin >> n;
-	    int total{1};
-//        std::vector<int> total;
+//	    int total{1};
+        std::vector<int> total;
+        total.push_back(1);
         for (int i = n; i > 0 ; --i) {
-            total *= i;
+            total.
         }
         std::cout << total << '\n';
 	}
